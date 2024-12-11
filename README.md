@@ -23,6 +23,9 @@
 - ⚡ <b>Fun facts:</b> </br>
       I like fitness, stock investments, and programming.
 
+  ![](https://leetcard.jacoblin.cool/lukeecheng?ext=heatmap)
+
+
 <h2 align="center">:wrench: Languages and Tools</h2>
 <p align="center"> 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></code>
@@ -38,6 +41,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeckk&theme=radical&line_height=27&hide=glsl,python" alt="Luke's Github Stats" /></p>
 
-<p align="center">
-![](https://leetcard.jacoblin.cool/lukeecheng?ext=heatmap)
-</p>-->
+
