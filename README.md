@@ -12,13 +12,13 @@
 - 🎓 <b>I’m currently studying ... </b></br>
       Bachelor's in Software Development
 - 🔭 <b>I’m currently working on ... </b></br> 
-      Fullstack webapp using MERN stack, Leetcode, prepare for interviews
+      Fullstack webapp using MERN stack, Leetcode, interview prep
 - 🧠 <b>I'm currently learning about ... </b></br>
       AWS, AI/ ML
 - 🔎 <b>I’m currently looking for ... </b></br>
       Software Engineering Internship / Entry-level position for 2025
 - ⚡ <b>Fun facts:</b> </br>
-      I like fitness, learn about stock investments, and programming.
+      I like programming, fitness, and learning about investments.
 - 📫 <b>How to reach me:</b> </br>
       Lukeecheng@gmail.com
 
