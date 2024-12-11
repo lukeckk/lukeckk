@@ -1,11 +1,9 @@
-<h2 align="center">:grin: Hi there! I'm Luke Cheng 👋</h2>
+<h2 align="center">👋 Hi there! I'm Luke Cheng</h2>
 
 <h5 align="center">
 
 <a align="center" href="https://www.linkedin.com/in/lukee-cheng/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
 <a href="https://leetcode.com/u/lukeecheng/" title="Leetcode Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
-<a href="https://leetcode.com/u/lukeecheng/" title="Leetcode Profile"><img width="22" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg
-)"> Leetcode</a> •
 
 
 </h5>
@@ -13,14 +11,16 @@
 
 - 🎓 <b>I’m currently studying ... </b></br>
       Bachelor's in Software Development
-- 🧪 <b>I'm currently working on ... </b></br> 
+- 🔭 <b>I’m currently working on ... </b></br> 
       Fullstack webapp using MERN stack, Leetcode, prepare for interviews
 - 🧠 <b>I'm currently learning about ... </b></br>
-      MERN stack, AWS, AI/ ML
+      AWS, AI/ ML
 - 🔎 <b>I’m currently looking for ... </b></br>
       Software Engineering Internship / Entry-level position for 2025
 - ⚡ <b>Fun facts:</b> </br>
       I like fitness, learn about stock investments, and programming.
+- 📫 <b>How to reach me:</b> </br>
+      Lukeecheng@gmail.com
 
 
 <h2 align="center">:wrench: Languages and Tools</h2>
