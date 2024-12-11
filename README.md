@@ -36,13 +36,13 @@
 
 <h2 align="center">:bar_chart: Github Stats</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeckk&theme=radical&line_height=27&hide=" alt="Luke's Github Stats" width=500&height=500 /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeckk&theme=radical&line_height=27&hide=" alt="Luke's Github Stats" width=400&height=400 /></p>
 
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/lukeecheng?ext=heatmap" alt="LeetCode Heatmap" width=500&height=700>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=lukeckk&show_icons=true&theme=dark&hide_border=true" />
-</div>
+</div> -->
 
