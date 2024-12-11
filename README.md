@@ -37,6 +37,7 @@
 <h2 align="center">:bar_chart: Github Stats</h2>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeckk&theme=radical&line_height=27&hide=glsl,python" alt="Luke's Github Stats" /></p>
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lukeckk&theme=dark&background=141321" alt="Luke's Github Stats" /></p>-->
 
+<p align="center">
 ![](https://leetcard.jacoblin.cool/lukeecheng?ext=heatmap)
+</p>-->
