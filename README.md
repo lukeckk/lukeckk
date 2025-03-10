@@ -12,9 +12,9 @@
 - 🎓 <b>I’m currently studying ... </b></br>
       Bachelor's in Software Development
 - 🔭 <b>I’m currently working on ... </b></br> 
-      Fullstack webapp using MERN stack, Leetcode, interview prep
+      Leetcode, Interview prep, Side projects
 - 🧠 <b>I'm currently learning about ... </b></br>
-      AWS, AI/ ML
+      Deep diving into JavaScript and Operating System
 - 🔎 <b>I’m currently looking for ... </b></br>
       Software Engineering Internship / Entry-level position for 2025
 - ⚡ <b>Fun facts:</b> </br>
@@ -28,9 +28,9 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="opencv" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="opencv" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
 </p>
 
