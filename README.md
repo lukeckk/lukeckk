@@ -18,7 +18,7 @@
 - 🔎 <b>I’m currently looking for ... </b></br>
       Software Engineering Internship / Entry-level position for 2025
 - ⚡ <b>Fun facts:</b> </br>
-      I like programming, fitness, and learning about investments.
+      I love programming and fitness.
 - 📫 <b>How to reach me:</b> </br>
       Lukeecheng@gmail.com
 
