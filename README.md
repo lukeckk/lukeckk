@@ -14,7 +14,7 @@
 - 🔭 <b>I’m currently working on ... </b></br> 
       Leetcode, Interview prep, Side projects
 - 🧠 <b>I'm currently learning about ... </b></br>
-      Deep diving into JavaScript and Operating System
+      System Architecture and Design Patterns
 - 🔎 <b>I’m currently looking for ... </b></br>
       Software Engineering Internship / Entry-level position for 2025
 - ⚡ <b>Fun facts:</b> </br>
