@@ -9,14 +9,12 @@
 </h5>
 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" align="right" width="400" height="auto" />
 
-- 🎓 <b>I’m currently studying ... </b></br>
-      Bachelor's in Software Development
+- 🎓 <b>I’m currently working as a ... </b></br>
+      Software Engineer
 - 🔭 <b>I’m currently working on ... </b></br> 
-      Leetcode, Interview prep, Side projects
+      Data Engineering side of things
 - 🧠 <b>I'm currently learning about ... </b></br>
-      System Architecture and Design Patterns
-- 🔎 <b>I’m currently looking for ... </b></br>
-      Software Engineering Internship / Entry-level position for 2025
+      Data, Cloud, System design, AI
 - ⚡ <b>Fun facts:</b> </br>
       I love programming and fitness.
 - 📫 <b>How to reach me:</b> </br>
