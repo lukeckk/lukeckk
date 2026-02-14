@@ -31,10 +31,6 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
 </p>
 
-<h2 align="center">:bar_chart: Github Stats</h2>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeckk&theme=radical&line_height=27&hide=" alt="Luke's Github Stats" width=400&height=400 /></p>
-
 <!-- <div align="center">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=lukeckk&show_icons=true&theme=dark&hide_border=true" />
 </div> -->
