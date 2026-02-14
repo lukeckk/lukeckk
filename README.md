@@ -3,7 +3,6 @@
 <h5 align="center">
 
 <a align="center" href="https://www.linkedin.com/in/lukee-cheng/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
-<a href="https://leetcode.com/u/lukeecheng/" title="Leetcode Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
 
 
 </h5>
@@ -36,10 +35,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeckk&theme=radical&line_height=27&hide=" alt="Luke's Github Stats" width=400&height=400 /></p>
 
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/lukeecheng?ext=heatmap" alt="LeetCode Heatmap" width=500&height=700>
-</div>
 <!-- <div align="center">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=lukeckk&show_icons=true&theme=dark&hide_border=true" />
 </div> -->
