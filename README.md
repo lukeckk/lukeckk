@@ -17,7 +17,7 @@
 - ⚡ <b>Fun facts:</b> </br>
       I love programming and fitness.
 - 📫 <b>How to reach me:</b> </br>
-      Lukeecheng@gmail.com
+      Lukeechengdev@gmail.com
 
 
 <h2 align="center">:wrench: Languages and Tools</h2>
